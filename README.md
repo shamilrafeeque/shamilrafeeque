@@ -1,6 +1,6 @@
-Fully working PHP/AJAX contact form script is available in the pro version of the template.
+<!-- Fully working PHP/AJAX contact form script is available in the pro version of the template.
 You can buy it from: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-
+ -->
 <h1 align="center">Hi 👋, I'm MOHAMMED SHAMIL RAFEEQUE</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 
